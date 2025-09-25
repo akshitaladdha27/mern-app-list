@@ -1,4 +1,4 @@
-# MERN Stack Agent Management & List Distribution App
+# Agent Management & List Distribution App
 
 
 A **MERN application** designed for admin to manage a team of agents and distribute task lists uploaded via CSV files. The application features secure authentication, agent management, and a CSV processing pipeline.
