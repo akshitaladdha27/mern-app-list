@@ -1,0 +1,18 @@
+/backend/node_modules
+/backend/.env
+
+/frontend/node_modules
+
+/frontend/build
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac specific
+.DS_Storenpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac specific
+.DS_Store
